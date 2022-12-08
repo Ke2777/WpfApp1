@@ -20,7 +20,7 @@
         </Grid.RowDefinitions>
 
 
-        <Label Grid.ColumnSpan="2" Content="Test question"/>
+        <Label Grid.ColumnSpan="2" Content="Test question?"/>
 
     </Grid>
 </Window>
